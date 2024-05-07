@@ -1,2 +1,2 @@
-# iquiz
-iquiz is an intelligent quiz platform
+# Quizup
+Quizup is an intelligent quiz platform
