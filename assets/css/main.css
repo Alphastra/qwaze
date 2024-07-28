@@ -26,7 +26,7 @@
   --default-color: #444444;
 
   /* Heading Color - This color is used for titles, headings and secondary elements. */
-  --heading-color: #37517e;
+  --heading-color: #f76937;
 
   /* Accent Color - This is the main accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out. */
   --accent-color: #f76937;
@@ -41,7 +41,7 @@
   --nav-color: #ffffff;
 
   /* Nav Hover Color - This color is applied to main navmenu links when they are hovered over. */
-  --nav-hover-color: #47b2e4;
+  --nav-hover-color: #f76937;
 
   /* Nav Dropdown Background Color - This color is used as the background for dropdown boxes that appear when hovering over primary navigation items. */
   --nav-dropdown-background-color: #ffffff;
@@ -113,14 +113,14 @@ h6 {
 
 .header .logo img {
   max-height: 36px;
-  margin-right: 8px;
+  margin-right: 0px;
 }
 
 .header .logo h1 {
   font-size: 30px;
   margin: 0;
   font-weight: 500;
-  color: var(--heading-color);
+  color: #f76937;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
